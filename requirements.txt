@@ -1,0 +1,12 @@
+spacy
+ipykernel
+langchain
+langchain_groq
+dotenv
+diffusers 
+transformers 
+accelerate 
+torch 
+torchvision 
+pillow 
+huggingface_hub[hf_xet]
