@@ -44,10 +44,10 @@ At every turn, VeloCity makes urban commuting faster, greener, and more connecte
 
 ---
 
-## ▶️ Run the Script
+## ▶️ Run the Notebook
 
-```python
-python main.py
+```
+ main.ipynb
 ```
 
 This will:
